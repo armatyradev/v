@@ -4,4 +4,4 @@ numpy
 pytest
 diffusers
 accelerate
-PIL
+Pillow
